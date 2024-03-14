@@ -1,2 +1,2 @@
-# Simple_Image_Classification_With_Neural_Networks
+# Simple Image Classification With Neural Networks
 Image Classification with Neural Networks in Python
