@@ -1,17 +1,17 @@
 # Simple Image Classification With Neural Networks
 Here's a summary of the code that can be included in a GitHub repository:
 
-**Approaches**:
+## Approaches:
 - Convolutional Neural Network (CNN) for image classification
 - Transfer learning (optional, if pre-trained models are used)
 
-**Libraries and Frameworks**:
+## Libraries and Frameworks:
 - TensorFlow and Keras (for building and training the CNN model)
 - NumPy (for numerical operations)
 - Matplotlib (for visualizing images)
 - OpenCV (for image loading and preprocessing)
 
-**Procedure**:
+## Procedure:
 
 1. **Data Loading and Preprocessing**:
    - Load the CIFAR-10 dataset using `keras.datasets.cifar10.load_data()`
@@ -50,5 +50,5 @@ Here's a summary of the code that can be included in a GitHub repository:
    - Use the loaded model to make predictions on the new images
    - Print the predicted class labels
 
-**Solution**:
+## Conclusion:
 The code provides a solution for image classification tasks using a CNN model. It demonstrates the end-to-end process of loading a dataset, building and training a CNN model, evaluating its performance, saving and loading the model, and making predictions on new images. The solution can be further extended or customized based on specific requirements, such as using pre-trained models for transfer learning, fine-tuning hyperparameters, or deploying the model for inference.
