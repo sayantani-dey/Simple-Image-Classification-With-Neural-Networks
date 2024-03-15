@@ -1,5 +1,4 @@
 # Simple Image Classification With Neural Networks
-Here's a summary of the code that can be included in a GitHub repository:
 
 ## Approaches:
 - Convolutional Neural Network (CNN) for image classification
